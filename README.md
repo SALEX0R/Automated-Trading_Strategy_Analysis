@@ -31,5 +31,5 @@ Example usage:
 
 ```python
 # Run the analysis code
-python Banknifty.py
+python a1pha.ipynb
 
