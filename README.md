@@ -1,8 +1,4 @@
 # Automated-Trading_Strategy_Analysis
-This GitHub project is a toolkit for analyzing and evaluating trading strategies using Python and Pandas. It includes code for calculating various performance metrics, visualizing drawdown, and generating trade sheets to assess the effectiveness of trading strategies.
-
-
-# Automated Trading Strategy Analysis Toolkit
 
 This GitHub project is an automated trading strategy analysis toolkit designed to assess the effectiveness of trading strategies using Python and Pandas. The toolkit includes two main components: analysis code and drawdown visualization code.
 
